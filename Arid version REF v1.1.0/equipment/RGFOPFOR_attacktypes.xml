@@ -1,0 +1,150 @@
+<FirearmAttackTypes>
+
+
+
+
+
+
+
+
+
+
+
+  <AttackType name="RGF_LMG_Longwalk">
+    <ModifiableParams
+      minAimTime="500"
+      maxAimTime="800"
+      minShots="8"
+      maxShots="12"
+      resetTime="600"
+      accuracyAdd="-120"
+      followupShotAccuracyAdd="+10"
+      critChanceAdd="0"
+    />
+  </AttackType>
+
+  <AttackType name="RGF_LMG_Shortwalk">
+    <ModifiableParams
+      minAimTime="500"
+      maxAimTime="500"
+      minShots="6"
+      maxShots="8"
+      resetTime="400"
+      accuracyAdd="-60"
+      followupShotAccuracyAdd="+10"
+      critChanceAdd="0"
+    />
+  </AttackType>
+
+  <AttackType name="RGF_GPMG_Walk">
+    <ModifiableParams
+      minAimTime="800"
+      maxAimTime="800"
+      minShots="6"
+      maxShots="10"
+      resetTime="500"
+      accuracyAdd="-60"
+      followupShotAccuracyAdd="+5"
+      critChanceAdd="0"
+    />
+  </AttackType>
+
+  <AttackType name="RGF_LMG_Plink">
+    <ModifiableParams
+      minAimTime="800"
+      maxAimTime="800"
+      minShots="2"
+      maxShots="4"
+      resetTime="500"
+      accuracyAdd="-50"
+      followupShotAccuracyAdd="5"
+      critChanceAdd="0"
+    />
+  </AttackType>
+
+  <AttackType name="RGF_LMG_PlinkXX">
+    <ModifiableParams
+      minAimTime="800"
+      maxAimTime="1200"
+      minShots="1"
+      maxShots="3"
+      resetTime="700"
+      accuracyAdd="-50"
+      followupShotAccuracyAdd="5"
+      critChanceAdd="0"
+    />
+  </AttackType>
+
+  <AttackType name="RGF_LMG_Mounted_Longwalk">
+    <ModifiableParams
+      minAimTime="450"
+      maxAimTime="650"
+      minShots="12"
+      maxShots="20"
+      resetTime="500"
+      accuracyAdd="-120"
+      followupShotAccuracyAdd="+10"
+      critChanceAdd="0"
+    />
+  </AttackType>
+
+  <AttackType name="RGF_LMG_Mounted_Shortwalk">
+    <ModifiableParams
+      minAimTime="450"
+      maxAimTime="450"
+      minShots="6"
+      maxShots="16"
+      resetTime="400"
+      accuracyAdd="-60"
+      followupShotAccuracyAdd="+10"
+      critChanceAdd="0"
+    />
+  </AttackType>
+
+  <AttackType name="RGF_LMG_Mounted_Plink">
+    <ModifiableParams
+      minAimTime="650"
+      maxAimTime="650"
+      minShots="4"
+      maxShots="8"
+      resetTime="500"
+      accuracyAdd="-50"
+      followupShotAccuracyAdd="5"
+      critChanceAdd="0"
+    />
+  </AttackType>
+
+  <AttackType name="RGF_LMG_Mounted_PlinkXX">
+    <ModifiableParams
+      minAimTime="650"
+      maxAimTime="1000"
+      minShots="1"
+      maxShots="3"
+      resetTime="600"
+      accuracyAdd="-50"
+      followupShotAccuracyAdd="5"
+      critChanceAdd="0"
+    />
+  </AttackType>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</FirearmAttackTypes>
