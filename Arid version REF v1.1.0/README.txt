@@ -1,7 +1,7 @@
-This is v1.1.0 of the REF mod, arid version. Thank you for checking it out.
+This is v1.2.0 of the REF mod, arid version. Thank you for checking it out.
 
 Notes for this version:
--Arid version released.
+-1.0 release. SVR Zaslon added.
 
 Next version:
 -Further balancing.
@@ -9,9 +9,11 @@ Next version:
 
 Credits:
 
-Vermin Pair:
+Quirky girls:
 
-Mard: Initial idea, implementation of RGF as an enemy faction.
+Haven: Initial idea, implementation of RGF as an enemy faction., voiceline sourcing and implementation
+Cat: Complete XML rework, adjustment, balancing, general ideas person.
+
 dps524: Original RGF mod, textures, various models, attacktype adjustment.
 
 Others:
